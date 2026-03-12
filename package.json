@@ -11,7 +11,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.2.1",
+    "autoprefixer": "^10.4.27",
     "next": "15.4.8",
     "postcss": "^8.5.8",
     "react": "19.1.0",
@@ -19,6 +19,7 @@
     "tailwindcss": "^4.2.1"
   },
   "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^16.0.1",
